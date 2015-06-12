@@ -1,0 +1,14 @@
+{
+  "name": "pizzaops-nonstdlib",
+  "version": "0.1.0",
+  "author": "pizzaops",
+  "summary": "Puppet code I find myself rewriting often.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/pizzaops/pizzaops-nonstdlib",
+  "project_page": "https://github.com/pizzaops/pizzaops-nonstdlib",
+  "issues_url": "https://github.com/pizzaops/pizzaops-nonstdlib/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
